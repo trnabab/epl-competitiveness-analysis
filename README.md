@@ -19,7 +19,7 @@ Analyzing whether financial inequality is driving competitive decline in the Pre
 | `02_data_processing` | Standardize club names across 46 clubs, join into unified dataset |
 | `03_metric_calculations` | Calculate Gini coefficients, HHI, correlations, regressions, era comparisons |
 | `04_dashboard_the_decline` | Creating visualisations showing unequality |
-| `04-08 dashboards` | Interactive Plotly dashboards (in progress) |
+| `05-08 dashboards` | Interactive Plotly dashboards (in progress) |
 
 ## Key Findings So Far
 - **Points Gini rising** (0.15 → 0.22): The league is becoming less competitive
