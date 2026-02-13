@@ -9,7 +9,7 @@ Analyzing whether financial inequality is driving competitive decline in the Pre
 - **Platform**: Databricks (Spark 4.0.0)
 - **Languages**: Python, PySpark, SQL
 - **Storage**: Delta Lake
-- **Visualization**: Plotly (coming soon)
+- **Visualization**: Plotly
 - **Data Source**: Transfermarkt (web scraping with BeautifulSoup)
 
 ## Project Structure
@@ -18,6 +18,7 @@ Analyzing whether financial inequality is driving competitive decline in the Pre
 | `01_data_ingestion` | Scrape squad values, transfer spending, and league tables from Transfermarkt (2000-2024) |
 | `02_data_processing` | Standardize club names across 46 clubs, join into unified dataset |
 | `03_metric_calculations` | Calculate Gini coefficients, HHI, correlations, regressions, era comparisons |
+| `04_dashboard_the_decline` | Creating visualisations showing unequality |
 | `04-08 dashboards` | Interactive Plotly dashboards (in progress) |
 
 ## Key Findings So Far
