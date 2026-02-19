@@ -6,7 +6,9 @@ Analyzing whether financial inequality is driving competitive decline in the Pre
 **"Is the Premier League becoming less competitive, and is financial inequality driving this change?"**
 
 ## 🔗 Live Dashboards
-- **[The Decline (Tableau Public)](https://public.tableau.com/app/profile/tajkinur.rahman/viz/TheDeclineepl-competitiveness-analysis/Dashboard1)** — Visual proof of declining competitiveness
+- **[The Decline (Tableau Public)](https://public.tableau.com/views/TheDeclineepl-competitiveness-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **[The Money Trail (Tableau Public)](https://public.tableau.com/views/TheMoneyTrailepl-competitiveness-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 ## Tech Stack
 - **Platform**: Databricks (Spark 4.0.0)
