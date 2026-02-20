@@ -11,8 +11,7 @@ Analyzing whether financial inequality is driving competitive decline in the Pre
 
 ### The Money Trail
 [![The Money Trail Dashboard](images/the_money_trail.png)](https://public.tableau.com/views/TheMoneyTrailepl-competitiveness-analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-```
-
+``
 
 ## Tech Stack
 - **Platform**: Databricks (Spark 4.0.0)
